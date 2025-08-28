@@ -1,11 +1,8 @@
 streamlit
+streamlit-extras
 google-generativeai
 python-dotenv
 PyPDF2
 Pillow
-torch 
-torchvision
-numpy
-opencv-python
-matplotlib
-tqdm
+
+
